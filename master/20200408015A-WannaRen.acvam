@@ -1,0 +1,40 @@
+#BEGIN
+[ACVA Message]
+time:UTC2020040815
+title:WannaRen
+os:1000
+level:c
+attack:a
+msg:
+{
+    新勒索病毒WannaRen开始呈现大规模传播的趋势,根据比特币钱包签名,此病毒的受益者和WannaCry为同一人
+    本病毒传播途径目前未知,可知在Vmware VirtualBox环境下,无Lan环境下,可访问Google环境下不会发毒
+    此病毒仅针对中国大陆
+}
+action:
+{
+    请立即更新系统/杀毒软件至最新版本,除2345外的杀毒软件最新病毒库均可匹配特征
+    调节UAC等级为最高
+    关闭 445 133,134,135等端口
+    有条件者请转移至MacOS和Linux工作
+    有条件者保持***开启以保持始终可访问google.com
+}
+#END
+#人类友好视图
+ACVA Alan Computer Virus Alert
+时间:UTC2020/04/08/15
+可感染系统:win
+影响等级:C
+危害等级:A
+简要描述:
+ 新勒索病毒WannaRen开始呈现大规模传播的趋势,根据比特币钱包签名,此病毒的受益者和WannaCry为同一人
+    本病毒传播途径目前未知,可知在Vmware VirtualBox环境下,无Lan环境下,可访问Google环境下不会发毒
+    此病毒仅针对中国大陆
+ACVC建议:
+请立即更新系统/杀毒软件至最新版本,除2345外的杀毒软件最新病毒库均可匹配特征
+    调节UAC等级为最高
+    关闭 445 133,134,135等端口
+    有条件者请转移至MacOS和Linux工作
+    有条件者保持***开启以保持始终可访问google.com   
+#
+
